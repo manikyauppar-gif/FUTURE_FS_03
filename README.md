@@ -20,4 +20,4 @@ A modern digital presence built for a local business to showcase menus/services,
 For a complete breakdown of the business problem, proposed digital solution, and client pitch strategy, refer to `PITCH_EXPLANATION.md`.
 
 ## Live Demo
-https://manikyauppar-gif.github.io/FUTURE_FS_03/
+https://manikyauppar-gif.github.io/FUTURE_FS_03/git add .
