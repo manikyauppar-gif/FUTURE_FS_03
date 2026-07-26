@@ -1,23 +1,22 @@
-# FUTURE_FS_03# FUTURE_FS_03 - Local Business Website & Pitch Project
+# Urban Brew Pastry Studio & Café Web Application
 
-## Track Code
-FS (Full Stack Web Development)
-
-## Developer Information
-- **Name:** Manikya K Uppar
-- **Track:** Full Stack Web Development
-- **Organization:** Future Interns
-- **GitHub Username:** manikyauppar-gif
+## Developer
+**Manikya K Uppar** — Full Stack Web Developer & Software Engineer
 
 ## Overview
-A modern digital presence built for a local business to showcase menus/services, handle customer inquiries, and collect online reservations.
+An aesthetic web application created for a boutique café and bakery. Features a baby-pink and warm-brown aesthetic palette, interactive category-filtered digital menu, and an online table reservation engine with a local storage management dashboard.
 
 ## Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **Data Persistence:** LocalStorage API
+- **Typography:** Google Fonts (Fredoka & Quicksand)
 - **Hosting:** GitHub Pages
 
-## Pitch Explanation & Business Impact
-For a complete breakdown of the business problem, proposed digital solution, and client pitch strategy, refer to `PITCH_EXPLANATION.md`.
+## Key Features
+- **Aesthetic UI Design:** Floating stickers, soft rounded cards, and responsive layout.
+- **Interactive Digital Menu:** Filterable menu categories for Cakes, Artisanal Drinks, Brunch, and Desserts.
+- **Table Reservation System:** Online booking form capturing guest details, dates, and special notes.
+- **Studio Bookings Manager:** Integrated owner dashboard for viewing and managing stored reservations.
 
 ## Live Demo
-https://manikyauppar-gif.github.io/FUTURE_FS_03/git add .
+🌐 [https://manikyauppar-gif.github.io/urban-brew-bakery/](https://manikyauppar-gif.github.io/urban-brew-bakery/)
